@@ -12,6 +12,7 @@
 		23398CFB23F79F77005D3A55 /* MyObj3.m in Sources */ = {isa = PBXBuildFile; fileRef = 23398CFA23F79F77005D3A55 /* MyObj3.m */; };
 		23398D0623F7AC02005D3A55 /* MyObj5.m in Sources */ = {isa = PBXBuildFile; fileRef = 23398D0523F7AC02005D3A55 /* MyObj5.m */; };
 		23398CF823F79DD6005D3A55 /* MyObj2.m in Sources */ = {isa = PBXBuildFile; fileRef = 23398CF723F79DD6005D3A55 /* MyObj2.m */; };
+		23398D0323F7ABC8005D3A55 /* MyObj_Dev.m in Sources */ = {isa = PBXBuildFile; fileRef = 23398D0223F7ABC8005D3A55 /* MyObj_Dev.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -37,6 +38,8 @@
 		23398D0523F7AC02005D3A55 /* MyObj5.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyObj5.m; sourceTree = "<group>"; };
 		23398CF623F79DD6005D3A55 /* MyObj2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyObj2.h; sourceTree = "<group>"; };
 		23398CF723F79DD6005D3A55 /* MyObj2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyObj2.m; sourceTree = "<group>"; };
+		23398D0123F7ABC8005D3A55 /* MyObj_Dev.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyObj_Dev.h; sourceTree = "<group>"; };
+		23398D0223F7ABC8005D3A55 /* MyObj_Dev.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyObj_Dev.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +89,8 @@
 				23398CFA23F79F77005D3A55 /* MyObj3.m */,
 				23398D0423F7AC02005D3A55 /* MyObj5.h */,
 				23398D0523F7AC02005D3A55 /* MyObj5.m */,
+				23398D0123F7ABC8005D3A55 /* MyObj_Dev.h */,
+				23398D0223F7ABC8005D3A55 /* MyObj_Dev.m */,
 			);
 			path = classes;
 			sourceTree = "<group>";
@@ -150,6 +155,7 @@
 				23398CFB23F79F77005D3A55 /* MyObj3.m in Sources */,
 				23398D0623F7AC02005D3A55 /* MyObj5.m in Sources */,
 				23398CF823F79DD6005D3A55 /* MyObj2.m in Sources */,
+				23398D0323F7ABC8005D3A55 /* MyObj_Dev.m in Sources */,
 				23398CEC23F79B6E005D3A55 /* main.m in Sources */,
 				23398CF523F79DAA005D3A55 /* MyObj.m in Sources */,
 			);
