@@ -11,11 +11,12 @@
 		23398CF523F79DAA005D3A55 /* MyObj.m in Sources */ = {isa = PBXBuildFile; fileRef = 23398CF423F79DAA005D3A55 /* MyObj.m */; };
 		23398CF823F79DD6005D3A55 /* MyObj2.m in Sources */ = {isa = PBXBuildFile; fileRef = 23398CF723F79DD6005D3A55 /* MyObj2.m */; };
 		23398CFB23F79F77005D3A55 /* MyObj3.m in Sources */ = {isa = PBXBuildFile; fileRef = 23398CFA23F79F77005D3A55 /* MyObj3.m */; };
-		23398D0623F7AC02005D3A55 /* MyObj5.m in Sources */ = {isa = PBXBuildFile; fileRef = 23398D0523F7AC02005D3A55 /* MyObj5.m */; };
-		23398CF823F79DD6005D3A55 /* MyObj2.m in Sources */ = {isa = PBXBuildFile; fileRef = 23398CF723F79DD6005D3A55 /* MyObj2.m */; };
 		23398D0323F7ABC8005D3A55 /* MyObj_Dev.m in Sources */ = {isa = PBXBuildFile; fileRef = 23398D0223F7ABC8005D3A55 /* MyObj_Dev.m */; };
+		23398D0623F7AC02005D3A55 /* MyObj5.m in Sources */ = {isa = PBXBuildFile; fileRef = 23398D0523F7AC02005D3A55 /* MyObj5.m */; };
 		23398D0923F7AC5B005D3A55 /* MyObj6.m in Sources */ = {isa = PBXBuildFile; fileRef = 23398D0823F7AC5B005D3A55 /* MyObj6.m */; };
 		23398D0F23F7B18C005D3A55 /* MyObj7.m in Sources */ = {isa = PBXBuildFile; fileRef = 23398D0E23F7B18C005D3A55 /* MyObj7.m */; };
+		23398D1223F7B1E5005D3A55 /* MyObj8.m in Sources */ = {isa = PBXBuildFile; fileRef = 23398D1123F7B1E5005D3A55 /* MyObj8.m */; };
+		23398D3E23F925C3005D3A55 /* MyObj9.m in Sources */ = {isa = PBXBuildFile; fileRef = 23398D3D23F925C3005D3A55 /* MyObj9.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -39,16 +40,18 @@
 		23398CF723F79DD6005D3A55 /* MyObj2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyObj2.m; sourceTree = "<group>"; };
 		23398CF923F79F77005D3A55 /* MyObj3.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyObj3.h; sourceTree = "<group>"; };
 		23398CFA23F79F77005D3A55 /* MyObj3.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyObj3.m; sourceTree = "<group>"; };
-		23398D0423F7AC02005D3A55 /* MyObj5.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyObj5.h; sourceTree = "<group>"; };
-		23398D0523F7AC02005D3A55 /* MyObj5.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyObj5.m; sourceTree = "<group>"; };
-		23398CF623F79DD6005D3A55 /* MyObj2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyObj2.h; sourceTree = "<group>"; };
-		23398CF723F79DD6005D3A55 /* MyObj2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyObj2.m; sourceTree = "<group>"; };
 		23398D0123F7ABC8005D3A55 /* MyObj_Dev.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyObj_Dev.h; sourceTree = "<group>"; };
 		23398D0223F7ABC8005D3A55 /* MyObj_Dev.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyObj_Dev.m; sourceTree = "<group>"; };
+		23398D0423F7AC02005D3A55 /* MyObj5.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyObj5.h; sourceTree = "<group>"; };
+		23398D0523F7AC02005D3A55 /* MyObj5.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyObj5.m; sourceTree = "<group>"; };
 		23398D0723F7AC5B005D3A55 /* MyObj6.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyObj6.h; sourceTree = "<group>"; };
 		23398D0823F7AC5B005D3A55 /* MyObj6.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyObj6.m; sourceTree = "<group>"; };
 		23398D0D23F7B18C005D3A55 /* MyObj7.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyObj7.h; sourceTree = "<group>"; };
 		23398D0E23F7B18C005D3A55 /* MyObj7.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyObj7.m; sourceTree = "<group>"; };
+		23398D1023F7B1E5005D3A55 /* MyObj8.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyObj8.h; sourceTree = "<group>"; };
+		23398D1123F7B1E5005D3A55 /* MyObj8.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyObj8.m; sourceTree = "<group>"; };
+		23398D3C23F925C3005D3A55 /* MyObj9.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyObj9.h; sourceTree = "<group>"; };
+		23398D3D23F925C3005D3A55 /* MyObj9.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyObj9.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +107,10 @@
 				23398D0823F7AC5B005D3A55 /* MyObj6.m */,
 				23398D0D23F7B18C005D3A55 /* MyObj7.h */,
 				23398D0E23F7B18C005D3A55 /* MyObj7.m */,
+				23398D1023F7B1E5005D3A55 /* MyObj8.h */,
+				23398D1123F7B1E5005D3A55 /* MyObj8.m */,
+				23398D3C23F925C3005D3A55 /* MyObj9.h */,
+				23398D3D23F925C3005D3A55 /* MyObj9.m */,
 			);
 			path = classes;
 			sourceTree = "<group>";
@@ -167,6 +174,8 @@
 			files = (
 				23398CFB23F79F77005D3A55 /* MyObj3.m in Sources */,
 				23398D0623F7AC02005D3A55 /* MyObj5.m in Sources */,
+				23398D1223F7B1E5005D3A55 /* MyObj8.m in Sources */,
+				23398D3E23F925C3005D3A55 /* MyObj9.m in Sources */,
 				23398CF823F79DD6005D3A55 /* MyObj2.m in Sources */,
 				23398D0323F7ABC8005D3A55 /* MyObj_Dev.m in Sources */,
 				23398CEC23F79B6E005D3A55 /* main.m in Sources */,
