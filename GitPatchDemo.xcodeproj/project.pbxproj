@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		23398CEC23F79B6E005D3A55 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 23398CEB23F79B6E005D3A55 /* main.m */; };
+		23398CF523F79DAA005D3A55 /* MyObj.m in Sources */ = {isa = PBXBuildFile; fileRef = 23398CF423F79DAA005D3A55 /* MyObj.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,8 @@
 /* Begin PBXFileReference section */
 		23398CE823F79B6E005D3A55 /* GitPatchDemo */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = GitPatchDemo; sourceTree = BUILT_PRODUCTS_DIR; };
 		23398CEB23F79B6E005D3A55 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		23398CF323F79DAA005D3A55 /* MyObj.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyObj.h; sourceTree = "<group>"; };
+		23398CF423F79DAA005D3A55 /* MyObj.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyObj.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,9 +60,19 @@
 		23398CEA23F79B6E005D3A55 /* GitPatchDemo */ = {
 			isa = PBXGroup;
 			children = (
+				23398CF223F79D9A005D3A55 /* classes */,
 				23398CEB23F79B6E005D3A55 /* main.m */,
 			);
 			path = GitPatchDemo;
+			sourceTree = "<group>";
+		};
+		23398CF223F79D9A005D3A55 /* classes */ = {
+			isa = PBXGroup;
+			children = (
+				23398CF323F79DAA005D3A55 /* MyObj.h */,
+				23398CF423F79DAA005D3A55 /* MyObj.m */,
+			);
+			path = classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -120,6 +133,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				23398CEC23F79B6E005D3A55 /* main.m in Sources */,
+				23398CF523F79DAA005D3A55 /* MyObj.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
