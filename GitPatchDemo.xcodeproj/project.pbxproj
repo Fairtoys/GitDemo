@@ -15,6 +15,7 @@
 		23398D0623F7AC02005D3A55 /* MyObj5.m in Sources */ = {isa = PBXBuildFile; fileRef = 23398D0523F7AC02005D3A55 /* MyObj5.m */; };
 		23398D0923F7AC5B005D3A55 /* MyObj6.m in Sources */ = {isa = PBXBuildFile; fileRef = 23398D0823F7AC5B005D3A55 /* MyObj6.m */; };
 		23398D2923F8DEAD005D3A55 /* Dev4.m in Sources */ = {isa = PBXBuildFile; fileRef = 23398D2823F8DEAD005D3A55 /* Dev4.m */; };
+		23398D2C23F8DEE6005D3A55 /* Dev5.m in Sources */ = {isa = PBXBuildFile; fileRef = 23398D2B23F8DEE6005D3A55 /* Dev5.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -46,6 +47,8 @@
 		23398D0823F7AC5B005D3A55 /* MyObj6.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyObj6.m; sourceTree = "<group>"; };
 		23398D2723F8DEAD005D3A55 /* Dev4.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Dev4.h; sourceTree = "<group>"; };
 		23398D2823F8DEAD005D3A55 /* Dev4.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Dev4.m; sourceTree = "<group>"; };
+		23398D2A23F8DEE6005D3A55 /* Dev5.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Dev5.h; sourceTree = "<group>"; };
+		23398D2B23F8DEE6005D3A55 /* Dev5.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Dev5.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +104,8 @@
 				23398D0823F7AC5B005D3A55 /* MyObj6.m */,
 				23398D2723F8DEAD005D3A55 /* Dev4.h */,
 				23398D2823F8DEAD005D3A55 /* Dev4.m */,
+				23398D2A23F8DEE6005D3A55 /* Dev5.h */,
+				23398D2B23F8DEE6005D3A55 /* Dev5.m */,
 			);
 			path = classes;
 			sourceTree = "<group>";
@@ -168,6 +173,7 @@
 				23398D0323F7ABC8005D3A55 /* MyObj_Dev.m in Sources */,
 				23398D2923F8DEAD005D3A55 /* Dev4.m in Sources */,
 				23398CEC23F79B6E005D3A55 /* main.m in Sources */,
+				23398D2C23F8DEE6005D3A55 /* Dev5.m in Sources */,
 				23398CF523F79DAA005D3A55 /* MyObj.m in Sources */,
 				23398D0923F7AC5B005D3A55 /* MyObj6.m in Sources */,
 			);
